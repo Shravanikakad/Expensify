@@ -1,0 +1,11 @@
+<resources>
+    <string name="Expensify">Expensify</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string-array name="calculator_types">
+        <item>Loan Calculator</item>
+        <item>Savings Goal Calculator</item>
+        <item>Budget Distribution</item>
+        <item>Return on Investment</item>
+    </string-array>
+</resources>
